@@ -59,7 +59,7 @@ def main():
     # Contact Information
     st.markdown("""
     <div class="contact-info">
-        <strong>📧 Email:</strong> shubhamkumark204@gmail.com
+        <strong>📧 Email:</strong> Codinggeek1728@gmail.com
         <strong>📱 Phone:</strong> +91-8810325212
     </div>
     """, unsafe_allow_html=True)
